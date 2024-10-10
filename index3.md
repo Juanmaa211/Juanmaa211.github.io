@@ -1,5 +1,5 @@
 ---
 title: Goleadores Champions
 layout: home
-parent: a
+parent: Goleadores Champions
 ---
