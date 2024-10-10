@@ -1,5 +1,4 @@
 ---
 title: a
-layout: home
-parent: a
+layout: home 
 ---
