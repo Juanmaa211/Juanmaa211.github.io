@@ -1,5 +1,5 @@
 ---
-title: home
-parent: si
+title: tustripas
+parent: Goleadores LaLiga
 layout: home
 ---
