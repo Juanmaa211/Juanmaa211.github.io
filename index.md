@@ -1,5 +1,5 @@
 ---
-title: Indice
+title: Goleadores LaLiga
 layout: home
 ---
 
