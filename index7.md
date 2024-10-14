@@ -5,7 +5,7 @@ layout: home
 ---
 
 1. Kylian Mbappé (Paris):8
-2.  Harry Kane (Bayern)::8
+2.  Harry Kane (Bayern):8
 3.  Antoine Griezmann (Atlético de Madrid):6
 4.  Erling Haaland (Man City):6
 5.  Vinícius Júnior (Real Madrid):6
